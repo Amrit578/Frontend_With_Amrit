@@ -1,0 +1,23 @@
+.email{
+    text-align: right;
+    margin-top: -50px;
+}
+.details{
+    text-align:left;
+    margin-left: 50px;
+}
+main{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+footer{
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+table{
+    border: 34px;
+}
